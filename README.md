@@ -145,7 +145,7 @@ All calculations happen **dynamically in JavaScript** and are updated in the das
 
 ## 🗒️ Note
 
-This project is on sell now, make full assurance by visiting and using the demo, for negotiation of project code and money dm us on instagram (link in bio) or sent us an mail via gmail on digilinkstechsolutions@gmail.com This project is currently available for sale. You can review the demo to fully evaluate its features and functionality before making a decision.
+This project is currently available for sale. You can review the demo to fully evaluate its features and functionality before making a decision.
 
 For inquiries regarding the project code, pricing, or negotiations, please contact us via Instagram (link in bio) or send us an email at digilinkstechsolutions@gmail.com.
 
