@@ -164,9 +164,5 @@ Looking for modifications or additional features? We also offer custom developme
   
 - Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
 
-
-
-Serious inquiries only. Let’s build something great together.
-
 ---
 🚀 Serious inquiries only. Let’s build something impactful
