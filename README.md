@@ -145,8 +145,28 @@ All calculations happen **dynamically in JavaScript** and are updated in the das
 
 ## 🗒️ Note
 
-This project is currently available for sale. You can review the demo to fully evaluate its features and functionality before making a decision.
+This project is available for purchase and ready to be deployed or customized to your needs. A live demo is provided so you can explore its full functionality and performance before making a decision.
 
-For inquiries regarding the project code, pricing, or negotiations, please contact us via Instagram (link in bio) or send us an email at digilinkstechsolutions@gmail.com.
+Looking for modifications or additional features? We also offer custom development and improvements tailored to your requirements.
+
+💬 For pricing, full source code access, or negotiations:
+
+- Email: digilinkstechsolutions@gmail.com
+
+- Instagram: [**digilinks_tech_solutions**](https://www.instagram.com/digilinks_tech_solutions?igsh=OGs1ZGZiMHkxdHZz)
+
+- Whatsapp: [**DigiLinks Contact**](https://wa.me/03157611879)
+
+
+🌐 **Explore more projects:**
+
+- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions)
+  
+- Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
+
+
+
+Serious inquiries only. Let’s build something great together.
 
 ---
+🚀 Serious inquiries only. Let’s build something impactful
