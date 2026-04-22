@@ -15,9 +15,6 @@
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
-![Forks](https://img.shields.io/github/forks/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
-![Contributors](https://img.shields.io/github/contributors/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
-![Issues](https://img.shields.io/github/issues/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -69,7 +66,7 @@
 - 📉 Live Charts  
 - 🚀 Production Ready  
 
----
+
 
 # 🧠 System Architecture
 
@@ -81,7 +78,7 @@ In-memory storage using arrays and objects
 ↓  
 Dashboard calculations (Profit/Loss & Total Investment)  
 
----
+
 
 # ⚙️ Calculations & Logic
 
@@ -91,7 +88,6 @@ Dashboard calculations (Profit/Loss & Total Investment)
 
 All calculations happen **dynamically in JavaScript** and are updated in the dashboard UI.
 
----
 
 ## 🛣 Roadmap
 
@@ -102,7 +98,7 @@ All calculations happen **dynamically in JavaScript** and are updated in the das
 - ⛔ User authentication  
 - ⛔ Database integration  
 
----
+
 
 ## 👨‍💻 Authors
 - [**Saad Ali Rizvi**](https://www.linkedin.com/in/saad-ali-rizvi/)
@@ -131,5 +127,5 @@ Looking for modifications or additional features? We also offer custom developme
   
 - Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
 
----
+
 🚀 Serious inquiries only. Let’s build something impactful
