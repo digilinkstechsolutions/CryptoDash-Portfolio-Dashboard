@@ -6,18 +6,18 @@
 
 <div align="center">
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/stargazers)
-[![Forks](https://img.shields.io/github/forks/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/network/members)
-[![Contributors](https://img.shields.io/github/contributors/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/issues)
+![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
+![Forks](https://img.shields.io/github/forks/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
+![Contributors](https://img.shields.io/github/contributors/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
+![Issues](https://img.shields.io/github/issues/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -37,64 +37,43 @@
 
 ---
 
-## 📋 **Table of Contents**
+## 📖 **Production-Ready Crypto Portfolio Dashboard**
 
-- [📖 About the Project](#-about-the-project)
-- [✨ Features](#-features)
-- [🛠 Tech Stack](#-tech-stack)
-- [🧠 System Architecture](#-system-architecture)
-- [⚙️ Key Calculations](#️-key-calculations)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Quick Start](#-quick-start)
-- [📈 Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👥 Authors](#-authors)
-- [💼 Professional Services](#-professional-services)
+**CryptoDash** delivers **enterprise-grade cryptocurrency portfolio tracking** with a **Spring Boot backend** and a **lightning-fast Vanilla JavaScript frontend**.
 
----
-
-## 📖 **About the Project**
-
-**CryptoDash** is a **production-ready, lightweight cryptocurrency portfolio dashboard** built with **Java Spring Boot** and **Vanilla JavaScript**.
-
-### **🎯 Key Highlights:**
-- ✅ **Real-time portfolio tracking**
-- ✅ **Profit & Loss calculations**
-- ✅ **Clean, responsive dashboard UI**
-- ✅ **Full-stack integration** (Frontend + Backend)
-- ✅ **No database required** – In-memory storage
-- ✅ **Deployed & production-tested**
-- ✅ **Lightning-fast performance**
-
-Perfect for **crypto enthusiasts**, **developers learning full-stack**, and **teams needing quick portfolio solutions**.
-
----
-
-## ✨ **Features**
-
-### 💹 **Portfolio Management**
-- Add/remove crypto assets with one click
-- Track total investment & current portfolio value
-- Real-time profit/loss calculations
-- Asset-wise performance analytics
-
-### 📊 **Dashboard**
-- Modern, intuitive dashboard UI
-- Responsive design (Mobile + Desktop)
-- Live data updates without page refresh
-- Professional charts & metrics
-
-### 🔗 **Backend Integration**
-- RESTful Spring Boot API
-- Secure frontend-backend communication
-- In-memory data persistence
-- Scalable architecture
-
----
-
-## 🛠 **Tech Stack**
+### 🎯 **What You Get**
+- ✅ Real-time profit/loss tracking  
+- ✅ Professional dashboard UI  
+- ✅ Full-stack integration  
+- ✅ No database setup required  
+- ✅ Mobile-responsive design  
+- ✅ Production deployed & tested  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,netlify&perline=6" />
 </div>
+
+---
+
+## ✨ **Premium Features**
+
+- 📊 Portfolio Dashboard  
+- 📈 Performance Tracking  
+- ➕ Add / Remove Assets  
+- 🧮 Clean Metrics  
+- ⚡ <50ms Updates  
+- 💼 Investment Tracking  
+- 📱 Responsive UI  
+- 🧩 Zero Dependencies  
+- 💰 P&L Calculations  
+- 📉 Live Charts  
+- 🚀 Production Ready  
+
+---
+
+## 🧠 **Architecture**
+
+```text
+Frontend (Vanilla JS) ↔ Spring Boot API ↔ In-Memory Storage
+                           ↓
+                    Real-time P&L Engine
