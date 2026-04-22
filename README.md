@@ -71,9 +71,65 @@
 
 ---
 
-## 🧠 **Architecture**
+# 🧠 System Architecture
 
-```text
-Frontend (Vanilla JS) ↔ Spring Boot API ↔ In-Memory Storage
-                           ↓
-                    Real-time P&L Engine
+Frontend (HTML/CSS/JS)  
+↓  
+Spring Boot API  
+↓  
+In-memory storage using arrays and objects  
+↓  
+Dashboard calculations (Profit/Loss & Total Investment)  
+
+---
+
+# ⚙️ Calculations & Logic
+
+- Total investment = sum of all asset purchase values  
+- Current portfolio value = sum of all asset current prices  
+- Profit / Loss = Current Value − Total Investment  
+
+All calculations happen **dynamically in JavaScript** and are updated in the dashboard UI.
+
+---
+
+## 🛣 Roadmap
+
+- ✅ Add & manage crypto assets  
+- ✅ Portfolio value calculation  
+- ✅ Profit/Loss calculation  
+- ⛔ Live crypto prices using API  
+- ⛔ User authentication  
+- ⛔ Database integration  
+
+---
+
+## 👨‍💻 Authors
+- [**Saad Ali Rizvi**](https://www.linkedin.com/in/saad-ali-rizvi/)
+- [**Syed Anas Hasan**](https://www.linkedin.com/in/anas19/)
+
+---
+
+## 🗒️ Note
+
+This project is available for purchase and ready to be deployed or customized to your needs. A live demo is provided so you can explore its full functionality and performance before making a decision.
+
+Looking for modifications or additional features? We also offer custom development and improvements tailored to your requirements.
+
+💬 For pricing, full source code access, or negotiations:
+
+- Email: digilinkstechsolutions@gmail.com
+
+- Instagram: [**digilinks_tech_solutions**](https://www.instagram.com/digilinks_tech_solutions?igsh=OGs1ZGZiMHkxdHZz)
+
+- Whatsapp: [**DigiLinks Contact**](https://wa.me/03157611879)
+
+
+🌐 **Explore more projects:**
+
+- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions)
+  
+- Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
+
+---
+🚀 Serious inquiries only. Let’s build something impactful
