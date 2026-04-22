@@ -1,158 +1,100 @@
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=The+Evidence+Room;Open+Source+Intelligence;Investigate+Unsolved+Mysteries&center=true&width=520&height=45">
-</p>
-
----
+# 💰 **CryptoDash** – Crypto Portfolio Dashboard
 
 <p align="center">
-  <a href="https://the-evidence-room.netlify.app/">
-    <img src="https://img.shields.io/badge/View%20Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-  </a>
-  <a href="https://github.com/digilinkstechsolutions">
-    <img src="https://img.shields.io/badge/GitHub-digilinkstechsolutions-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CryptoDash+%F0%9F%A4%96;Track+Your+Crypto+Portfolio;Spring+Boot+%2B+Vanilla+JS;Real-time+Profit%2FLoss;Live+Demo+Available&center=true&width=600&height=50&pause=1000&color=00D4FF&center=true" alt="Typing SVG" />
 </p>
-
----
-
-## 📌 About
-
-**The Evidence Room** — A powerful Open Source Intelligence (OSINT) platform for investigating unsolved mysteries, cold cases, and detailed case studies.
-
-Built with pure HTML5, CSS3, and JavaScript. Deployed on Netlify.
-
----
-
-## 🛠 Tech Stack
 
 <div align="center">
 
-| Technology | Badge |
-|------------|-------|
-| HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| Netlify | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+
+[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/stargazers)
+[![Forks](https://img.shields.io/github/forks/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/network/members)
+[![Contributors](https://img.shields.io/github/contributors/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/digilinkstechsolutions/CryptoDash?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digilinkstechsolutions/CryptoDash/issues)
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,netlify" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc?id=digilinkstechsolutions+CryptoDash&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## ✨ Features
+## 🚀 **Live Demo**
 
-| Feature | Description |
-|---------|-------------|
-| Case Studies Library | Browse unsolved mysteries, cold cases, and detailed investigations |
-| OSINT Tools | Explore tools and methodologies used in open source intelligence |
-| Interactive Dashboard | User-friendly interface for navigating case files |
-| Case Categories | Organized murder cases, missing persons, historical mysteries |
-| Responsive Design | Fully responsive across all devices |
-| Dark Mode UI | Modern dark-themed interface |
+<div align="center">
+  <a href="https://cryptodash-portfolio-dashboard.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
 
 ---
 
-## 📂 Project Structure
+## 📋 **Table of Contents**
 
-```
-OSINT-Website/
-├── html/
-│   ├── index.html              # Landing page
-│   ├── landing.html           # Main homepage
-│   ├── about.html            # About page
-│   ├── cases-tab.html        # Cases overview
-│   ├── tools.html            # OSINT tools
-│   ├── contact.html         # Contact page
-│   ├── login.html           # Login/Register page
-│   ├── cooper-case.html    # DB Cooper Case
-│   ├── jfk-case.html        # JFK Assassination
-│   ├── snipers-case.html   # DC Sniper Case
-│   ├── janikhel-murder-case.html
-│   ├── murder-cases.html
-│   └── missing-persons.html
-├── css/
-│   ├── index.css
-│   ├── landing.css
-│   ├── about.css
-│   └── ...
-├── js/
-│   ├── index.js
-│   └── ...
-├── LICENSE
-└── README.md
-```
+- [📖 About the Project](#-about-the-project)
+- [✨ Features](#-features)
+- [🛠 Tech Stack](#-tech-stack)
+- [🧠 System Architecture](#-system-architecture)
+- [⚙️ Key Calculations](#️-key-calculations)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Quick Start](#-quick-start)
+- [📈 Roadmap](#-roadmap)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [👥 Authors](#-authors)
+- [💼 Professional Services](#-professional-services)
 
 ---
 
-## 🚀 Getting Started
+## 📖 **About the Project**
 
-### Prerequisites
+**CryptoDash** is a **production-ready, lightweight cryptocurrency portfolio dashboard** built with **Java Spring Boot** and **Vanilla JavaScript**.
 
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Text editor (VS Code recommended)
+### **🎯 Key Highlights:**
+- ✅ **Real-time portfolio tracking**
+- ✅ **Profit & Loss calculations**
+- ✅ **Clean, responsive dashboard UI**
+- ✅ **Full-stack integration** (Frontend + Backend)
+- ✅ **No database required** – In-memory storage
+- ✅ **Deployed & production-tested**
+- ✅ **Lightning-fast performance**
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/digilinkstechsolutions/OSINT-Website.git
-
-# Navigate to project
-cd OSINT-Website
-
-# Open in browser
-# Option 1: Open html/index.html directly
-# Option 2: Use VS Code Live Server
-```
+Perfect for **crypto enthusiasts**, **developers learning full-stack**, and **teams needing quick portfolio solutions**.
 
 ---
 
-## 🗺️ Roadmap
+## ✨ **Features**
 
-- [x] Landing page with authentication flow
-- [x] Case studies library
-- [x] OSINT tools section
-- [x] Contact form
-- [x] Responsive dark-mode UI
-- [ ] User authentication system
-- [ ] Database integration
-- [ ] Search functionality
-- [ ] Advanced filtering
+### 💹 **Portfolio Management**
+- Add/remove crypto assets with one click
+- Track total investment & current portfolio value
+- Real-time profit/loss calculations
+- Asset-wise performance analytics
 
----
+### 📊 **Dashboard**
+- Modern, intuitive dashboard UI
+- Responsive design (Mobile + Desktop)
+- Live data updates without page refresh
+- Professional charts & metrics
 
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-## 👥 Contributors
-
-| Contributor | Role | Links |
-|-------------|------|-------|
-| **Saad Ali Rizvi** | Founder / Lead Developer | [LinkedIn](https://www.linkedin.com/in/saad-ali-rizvi/) · [GitHub](https://github.com/saadalirizvi) |
+### 🔗 **Backend Integration**
+- RESTful Spring Boot API
+- Secure frontend-backend communication
+- In-memory data persistence
+- Scalable architecture
 
 ---
 
-## 🔗 Connect
+## 🛠 **Tech Stack**
 
-- 🌐 **Live Demo**: https://the-evidence-room.netlify.app/
-- 💼 **GitHub**: https://github.com/digilinkstechsolutions
-- 🌐 **Website**: https://digilinks-professional-services.netlify.app
-- 📧 **Email**: digilinkstechsolutions@gmail.com
-
----
-
-<p align="center">
-  <strong>Every clue tells a story.</strong>
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,netlify&perline=7" />
+</div>
