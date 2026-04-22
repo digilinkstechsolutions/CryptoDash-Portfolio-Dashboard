@@ -36,15 +36,6 @@ Lightweight cryptocurrency portfolio dashboard built with Java Spring Boot and V
 
 ---
 
-## 🚀 Live Demo
-
-<div align="center">
-  <a href="https://cryptodash-portfolio-dashboard.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-  </a>
-</div>
-
-
 ## 📖 About The Project
 
 **CryptoDash** is a **modern crypto portfolio dashboard** built with a **Spring Boot backend** and a **lightweight Vanilla JavaScript frontend**. It allows users to track their cryptocurrency investments with **real-time profit/loss calculations**, clean analytics, and a responsive UI.
