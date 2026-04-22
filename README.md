@@ -1,8 +1,20 @@
-# 💰 **CryptoDash** – Crypto Portfolio Dashboard
+<!-- markdownlint-disable MD033 MD041 -->
+<div align="center">
+
+# CryptoDash - Crypto Portfolio Dashboard
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CryptoDash+%F0%9F%A4%96;Track+Your+Crypto+Portfolio;Spring+Boot+%2B+Vanilla+JS;Real-time+Profit%2FLoss;Live+Demo+Available&center=true&width=600&height=50&pause=1000&color=00D4FF&center=true" alt="Typing SVG" />
+Lightweight cryptocurrency portfolio dashboard built with Java Spring Boot and Vanilla JavaScript
 </p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CryptoDash+Portfolio+Dashboard;Track+Your+Crypto;Frontend+%2B+Backend+Integration;Profit+%26+Loss+Calculation&center=true&width=520&height=45">
+</p>
+
+---
+
+# 🛫 Project Badges
 
 <div align="center">
 
@@ -18,9 +30,9 @@
 
 </div>
 
-<p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc?id=digilinkstechsolutions+CryptoDash&style=for-the-badge&color=blueviolet" />
-</p>
+---
+
+![Project Preview](./preview.png)
 
 ---
 
@@ -32,13 +44,49 @@
   </a>
 </div>
 
+
+
 ---
 
-## 📖 **Production-Ready Crypto Portfolio Dashboard**
+## 📖 About The Project
 
-**CryptoDash** delivers **enterprise-grade cryptocurrency portfolio tracking** with a **Spring Boot backend** and a **lightning-fast Vanilla JavaScript frontend**.
+**CryptoDash** is a **modern crypto portfolio dashboard** built with a **Spring Boot backend** and a **lightweight Vanilla JavaScript frontend**. It allows users to track their cryptocurrency investments with **real-time profit/loss calculations**, clean analytics, and a responsive UI.
 
-### 🎯 **What You Get**
+Designed for simplicity and performance, CryptoDash delivers **instant portfolio insights** without requiring complex setup or heavy dependencies.
+
+> 💡 **Live Demo:** [CryptoDash Portfolio Dashboard](https://cryptodash-portfolio-dashboard.netlify.app/) *(Live Website)*
+
+---
+
+## ⭐ Repository Visitors
+
+<div align="center">
+
+![GitHub Views](https://komarev.com/ghpvc/?username=digilinkstechsolutions&repo=CryptoDash&style=for-the-badge&color=00cf63&label=Profile+Views)
+![GitHub Clones](https://komarev.com/ghpvc/?username=digilinkstechsolutions&repo=CryptoDash&style=for-the-badge&color=00cf63&label=Repo+Clones&clones=true)
+
+*Thank you for visiting! If you find this project useful, please consider giving it a ⭐*
+
+</div>
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|--------|------------|
+| 💰 **Portfolio Tracking** | Manage and monitor your crypto assets in one place |
+| 📊 **Real-time P&L** | Instant profit/loss calculations based on your investments |
+| 📈 **Performance Analytics** | Clear metrics for ROI, gains, and portfolio value |
+| ➕ **Asset Management** | Add or remove cryptocurrencies بسهولة |
+| ⚡ **Fast & Lightweight** | Vanilla JS frontend with ultra-fast updates (<50ms) |
+| 📱 **Responsive UI** | Works seamlessly across mobile, tablet, and desktop |
+| 🔗 **Full-Stack Integration** | Connected Spring Boot API with real-time data flow |
+| 🧩 **Zero Dependencies** | No heavy frameworks required |
+
+---
+
+### 🎯 What You Get
 - ✅ Real-time profit/loss tracking  
 - ✅ Professional dashboard UI  
 - ✅ Full-stack integration  
@@ -52,7 +100,8 @@
 
 ---
 
-## ✨ **Premium Features**
+
+## ✨ Premium Features
 
 - 📊 Portfolio Dashboard  
 - 📈 Performance Tracking  
