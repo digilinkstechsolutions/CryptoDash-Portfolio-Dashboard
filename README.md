@@ -12,6 +12,8 @@ Lightweight cryptocurrency portfolio dashboard built with Java Spring Boot and V
 <img src="https://readme-typing-svg.herokuapp.com/?lines=CryptoDash+Portfolio+Dashboard;Track+Your+Crypto;Frontend+%2B+Backend+Integration;Profit+%26+Loss+Calculation&center=true&width=520&height=45">
 </p>
 
+</div>
+
 ---
 
 # 🛫 Project Badges
@@ -30,13 +32,11 @@ Lightweight cryptocurrency portfolio dashboard built with Java Spring Boot and V
 
 </div>
 
----
-
 ![Project Preview](./preview.png)
 
 ---
 
-## 🚀 **Live Demo**
+## 🚀 Live Demo
 
 <div align="center">
   <a href="https://cryptodash-portfolio-dashboard.netlify.app/">
@@ -44,9 +44,6 @@ Lightweight cryptocurrency portfolio dashboard built with Java Spring Boot and V
   </a>
 </div>
 
-
-
----
 
 ## 📖 About The Project
 
@@ -99,23 +96,6 @@ Designed for simplicity and performance, CryptoDash delivers **instant portfolio
 </div>
 
 ---
-
-
-## ✨ Premium Features
-
-- 📊 Portfolio Dashboard  
-- 📈 Performance Tracking  
-- ➕ Add / Remove Assets  
-- 🧮 Clean Metrics  
-- ⚡ <50ms Updates  
-- 💼 Investment Tracking  
-- 📱 Responsive UI  
-- 🧩 Zero Dependencies  
-- 💰 P&L Calculations  
-- 📉 Live Charts  
-- 🚀 Production Ready  
-
-
 
 # 🧠 System Architecture
 
